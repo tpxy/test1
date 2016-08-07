@@ -51,3 +51,5 @@ Thumbs.dbb
 *.fbx
 *.FBX
 *.max
+
+!ic_launcher.png
